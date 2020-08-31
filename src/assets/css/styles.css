@@ -1,0 +1,43 @@
+.top {
+    width: 100%;
+    height: 315px;
+
+    display: flex;
+    flex-direction: row;
+}
+
+.under {
+    width: 100%;
+    height: 315px;
+
+    display: flex;
+    flex-direction: row;
+}
+
+.top .top__col1 {
+    width: 50%;
+    height: 315px;
+
+    background-color: #fffa65;
+}
+
+.top .top__col2 {
+    width: 50%;
+    height: 315px;
+
+    background-color: #7efff5;
+}
+
+.under .under__col1 {
+    width: 50%;
+    height: 315px;
+
+    background-color: #ffcccc;
+}
+
+.under .under__col2 {
+    width: 50%;
+    height: 315px;
+
+    background-color: #32ff7e;
+}
